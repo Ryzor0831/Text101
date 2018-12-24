@@ -10,11 +10,14 @@ public class AdventureGame : MonoBehaviour
 
     State state;
 
+    string[] days = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
+
     // Start is called before the first frame update
     void Start()
     {
         state = startingState;
         textComponent.text = state.GetStateStory();
+        Debug.Log(days[1]);
     }
 
     // Update is called once per frame

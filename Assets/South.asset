@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c10f5f27e653a3147b796eb2649aaa84, type: 3}
-  m_Name: StartingState
+  m_Name: South
   m_EditorClassIdentifier: 
-  storyText: "You fall through a virutal hole and landed on a grassy field.\r\n\r\nYou
-    can:\r\n1. Go north\r\n2. Go south"
+  storyText: You head south of the field
   nextStates:
-  - {fileID: 11400000, guid: f2299d1b2974eff4b9b2fd4a31f9f09b, type: 2}
-  - {fileID: 11400000, guid: c8969b31b2ee35849a12e45fb26d273e, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
