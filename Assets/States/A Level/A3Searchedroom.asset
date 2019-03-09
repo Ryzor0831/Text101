@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c10f5f27e653a3147b796eb2649aaa84, type: 3}
-  m_Name: South
+  m_Name: A3Searchedroom
   m_EditorClassIdentifier: 
-  storyText: You head south of the field
-  nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  storyText: "You walk around the room to search for anything useful or out of the
+    ordinary.  You noticed a closet door, a compass on the desk and a baseball bat
+    on the floor.\r\n\r\nPress:\r\n1.  Open closet door.\r\n2.  Take compass.\r\n3.
+    \ Take baseball bat."
+  nextStates: []

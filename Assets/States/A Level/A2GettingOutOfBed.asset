@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c10f5f27e653a3147b796eb2649aaa84, type: 3}
+  m_Name: A2GettingOutOfBed
+  m_EditorClassIdentifier: 
+  storyText: "You slowly roll out of your bed and start inquiring about your surrounds.
+    \ Some things does not look right:\r\n\r\n\r\n\r\nPress:\r\n1.  Leave your bedroom.\r\n2.
+    \ Search your bedroom."
+  nextStates:
+  - {fileID: 11400000, guid: 22190fb57277d3347a96b9b60803984e, type: 2}
+  - {fileID: 11400000, guid: 94382480cc8e3d443a977b36aed15aa4, type: 2}

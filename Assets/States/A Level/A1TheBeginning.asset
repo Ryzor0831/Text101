@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c10f5f27e653a3147b796eb2649aaa84, type: 3}
+  m_Name: A1TheBeginning
+  m_EditorClassIdentifier: 
+  storyText: "You slowly open your eyes to a blur.  Then everything around you looks
+    familiar.  You realized this place looks like your old bedroom back in Baltimore.\r\n\r\n\r\nPress:\r\n1.
+    \ Get off the bed.\r\n2.  Close your eyes and go back to sleep."
+  nextStates:
+  - {fileID: 11400000, guid: c8969b31b2ee35849a12e45fb26d273e, type: 2}
+  - {fileID: 11400000, guid: 8f2cd81c8aa153e4e9293f864dc447c1, type: 2}

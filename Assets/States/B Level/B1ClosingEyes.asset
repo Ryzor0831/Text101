@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c10f5f27e653a3147b796eb2649aaa84, type: 3}
+  m_Name: B1ClosingEyes
+  m_EditorClassIdentifier: 
+  storyText: "You close your eyes and try to fall back to sleep.  Starting to doze
+    off.  A few minutes later you fall asleep again.  Suddenly, a feel of unknown
+    force pulling you away from your room followed by a flash of light..  You open
+    your eyes quickly and feeling afraid.  You realized you are not in your room anymore.
+    \ This place looks dark and dreary.\r\n\r\n\nPress:\r\n1.  Get off the bed."
+  nextStates: []
